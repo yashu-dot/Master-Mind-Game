@@ -1,1 +1,1 @@
-Simple pythin script for the game MasterMind.
+Simple python script for the game MasterMind.
